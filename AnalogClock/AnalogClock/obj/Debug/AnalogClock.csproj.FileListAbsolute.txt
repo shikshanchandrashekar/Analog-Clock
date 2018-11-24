@@ -1,0 +1,9 @@
+E:\Project drafts\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+E:\Project drafts\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+E:\Project drafts\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+E:\Project drafts\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+E:\Project drafts\AnalogClock\AnalogClock\obj\Debug\AnalogClock.AnalogClock.resources
+E:\Project drafts\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+E:\Project drafts\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+E:\Project drafts\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+E:\Project drafts\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
